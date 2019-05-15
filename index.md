@@ -1,5 +1,6 @@
-# go-imports
+# My Go projects
 
-Package | Source
---- | ---
-https://go.ilie.io/grape | https://github.com/calini/grape
+Name | Package | Source | Docs
+--- | --- | --- | ---
+Grape | https://ilie.io/grape | https://github.com/calini/grape | TODO
+Memes | https://ilie.io/memes | https://github.com/calini/memes | TODO
