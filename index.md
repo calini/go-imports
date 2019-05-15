@@ -2,4 +2,4 @@
 
 Package | Source
 --- | ---
-go.ilie.io/grape | https://github.com/calini/grape
+https://go.ilie.io/grape | https://github.com/calini/grape
